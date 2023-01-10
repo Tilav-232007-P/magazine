@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1180px){
+    .swiper{
+        width: 630px;
+    }
+}
+@media only screen and (max-width: 650px){
+    .swiper{
+        width: 420px;
+    }
+    .h1_header{
+        font-size: 32px;
+    }
+}
+@media only screen and (max-width: 450px){
+    .swiper{
+        width: 200px;
+    }
+    .h1_header{
+        font-size: 28px;
+    }
+}
+@media only screen and (max-width: 325px){
+    .h1_header{
+        font-size: 32px;
+    }
+}
